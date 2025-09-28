@@ -1,0 +1,10 @@
+# Ignore system folders and junk files
+$Recycle.Bin/
+Windows/
+Program Files/
+System32/
+*.log
+*.tmp
+pagefile.sys
+swapfile.sys
+hiberfil.sys
