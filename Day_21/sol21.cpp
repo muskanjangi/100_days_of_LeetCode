@@ -31,3 +31,20 @@ int main() {
     cout << "Total valid numbers: " << sol.totalNumbers(digits) << endl;
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
